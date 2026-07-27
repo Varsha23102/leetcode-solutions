@@ -55,7 +55,3 @@ The digits are stored in reverse order, allowing us to simulate elementary addit
 - **Time:** `O(max(n, m))`
 - **Space:** `O(max(n, m))`
 
-## ✅ Code
-
-```cpp
-// Your code
