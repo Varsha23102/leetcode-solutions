@@ -33,3 +33,29 @@
 	<li><code>0 &lt;= Node.val &lt;= 9</code></li>
 	<li>It is guaranteed that the list represents a number that does not have leading zeros.</li>
 </ul>
+
+
+---
+
+## 💡 Intuition
+
+The digits are stored in reverse order, allowing us to simulate elementary addition from the least significant digit. We keep track of the carry while traversing both linked lists.
+
+## 🚀 Approach
+
+- Create a dummy node.
+- Traverse both linked lists simultaneously.
+- Add corresponding digits and carry.
+- Store `sum % 10` in a new node.
+- Update carry as `sum / 10`.
+- Continue until both lists and carry are exhausted.
+
+## ⏱️ Complexity
+
+- **Time:** `O(max(n, m))`
+- **Space:** `O(max(n, m))`
+
+## ✅ Code
+
+```cpp
+// Your code
