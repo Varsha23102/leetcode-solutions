@@ -1,28 +1,32 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 LeetCode Solutions
+
+Welcome to my LeetCode solutions repository!
+
+I regularly solve Data Structures and Algorithms problems to strengthen my problem-solving skills and prepare for coding interviews.
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech in Data Science & Artificial Intelligence
+- 💻 Interested in AI/ML, Software Development, and Data Science
+- 🎯 Goal: Crack top product-based company interviews
+- 🔥 Solving LeetCode consistently
+
+---
+
+## 📊 Repository Stats
+
+- ✅ Solutions are written in **C++**
+- ✅ Well-structured folder organization
+- ✅ Time & Space Complexity included (for selected problems)
+- ✅ Covers multiple DSA topics
+
+---
+
+# 📚 LeetCode Topics
+
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Varsha23102/leetcode-solutions/tree/master/0002-add-two-numbers) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Varsha23102/leetcode-solutions/tree/master/0002-add-two-numbers) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Varsha23102/leetcode-solutions/tree/master/0002-add-two-numbers) |
-## Array
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/Varsha23102/leetcode-solutions/tree/master/0088-merge-sorted-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/Varsha23102/leetcode-solutions/tree/master/0088-merge-sorted-array) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/Varsha23102/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
+
+---
+
+⭐ If you find this repository useful, feel free to star it!
